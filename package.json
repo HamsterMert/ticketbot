@@ -1,0 +1,14 @@
+{
+  "name": "ticketbot",
+  "version": "1.0.0",
+  "description": "Ticket Bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "HamsterMert",
+  "license": "MIT",
+  "dependencies": {
+    "aoi.js": "^6.9.0"
+  }
+}
