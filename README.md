@@ -22,7 +22,7 @@ TicketBot, Discord sunucularında destek taleplerini yönetmek için geliştiril
 
     "categoryID": "1312430603358048317",
     "staffID": "1312437453415649350"
-}
+   }
    ```
 3. **Botu başlatın:**
    ```sh
